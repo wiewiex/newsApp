@@ -1,0 +1,12 @@
+{
+  "SideMenu": {
+    "title": "Select country"
+  },
+  "ArticleFullScreen": {
+    "link": "Link to source"
+  },
+  "Footer": {
+    "numberOfNews": "Number of news: "
+  },
+  "Message": "Example"
+}
