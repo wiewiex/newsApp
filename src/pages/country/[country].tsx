@@ -46,6 +46,7 @@ export const getStaticProps: GetStaticProps = async ({
       currentCountryNews,
       ...(await serverSideTranslations(locale as string, ['common'])),
     },
+    revalidate: 86400,
   };
 };
 
